@@ -2,7 +2,7 @@
 //  Constants.swift
 //  sv-screenscape-app
 //
-//  Created by Hexa-Justin.Yu on 02/03/2024.
+//  Created by Poh Shun Yu on 02/03/2024.
 //
 
 struct Constants {
